@@ -1,0 +1,12 @@
+*.js
+*.d.ts
+node_modules
+build
+
+# CDK
+.cdk.staging
+cdk.out
+
+# IDEs
+.idea
+.vscode
